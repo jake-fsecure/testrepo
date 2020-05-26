@@ -22,7 +22,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>alert(xss)/field>
+        <field>alert(xss)</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
