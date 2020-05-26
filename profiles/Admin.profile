@@ -22,7 +22,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.Jigsaw</field>
+        <field>alert(xss)/field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
